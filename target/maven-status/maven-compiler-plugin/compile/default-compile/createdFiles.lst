@@ -1,0 +1,3 @@
+com\ghdev\graphqlapi\model\User$UserBuilder.class
+com\ghdev\graphqlapi\input\PostInput$PostInputBuilder.class
+com\ghdev\graphqlapi\model\Post$PostBuilder.class
